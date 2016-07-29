@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.vdisk.cn/wxhbts/pangu.ipa</string>
+					<string>http://www.vdisk.cn/wxhbts/pangu1.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -23,7 +23,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ppjb.tools.carrier.gr-f190d3ca1018f126781eb0be10937ae2d8abceb4-1469370959.57</string>
+				<string>com.ppjb.tools.carrier.gr-3b9034361da211094e35eb2aa9f6cd858fd45e87-1469685148.18</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
